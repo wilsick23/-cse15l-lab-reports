@@ -3,4 +3,4 @@ __Bold__
 *Italic*
 # Heading
 ## Second Heading
-[Link] (https://www.youtube.com/)
+[Link](https://www.youtube.com/)
